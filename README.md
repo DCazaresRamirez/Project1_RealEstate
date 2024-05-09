@@ -3,7 +3,7 @@
 ## Overview
 "How do transaction data and neighborhood attributes correlate with homelessness trends over time?"
 
-  -By conducting thorough analyses of transaction data and neighborhood attributes, you can gain valuable insights into the housing market dynamics and their potential impact on homelessness. These insights can help inform strategies for addressing homelessness and improving housing stability in affected communities.
+  - By conducting thorough analyses of transaction data and neighborhood attributes, you can gain valuable insights into the housing market dynamics and their potential impact on homelessness. These insights can help inform strategies for addressing homelessness and improving housing stability in affected communities.
 
 ## Data Sources
 - [ATTOM API](https://api.developer.attomdata.com/)
