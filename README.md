@@ -21,10 +21,14 @@
   - Analyze trends in property ownership and sales activity over time (2007-2023) across different states and metropolitan areas.
   - Identify areas with high foreclosure rates or significant changes in property sales and prices.
 - **Neighborhood Attributes Analysis:** Evaluate the livability and desirability of different neighborhoods.
-  -Access neighborhood attribute data from the ATTOM API, including crime rates, school quality, proximity to amenities, and transportation access.
-  -Evaluate the livability and desirability of different neighborhoods based on these attributes.
-  -Analyze how neighborhood characteristics correlate with homelessness rates across different regions and demographic groups.
+  - Access neighborhood attribute data from the ATTOM API, including crime rates, school quality, proximity to amenities, and transportation access.
+  - Evaluate the livability and desirability of different neighborhoods based on these attributes.
+  - Analyze how neighborhood characteristics correlate with homelessness rates across different regions and demographic groups.
 - **Visualizations:** Create bar charts, line plots, and maps to visualize the data.
+  - Create bar charts to visualize property ownership trends over time.
+  - Generate line plots to illustrate changes in property sales activity.
+  - Develop heatmaps to visualize foreclosure rates or changes in property prices.
+  - Create maps to represent neighborhood attributes and their correlations with homelessness rates.
 
 ### Team Member 2 - Syed
 #### Tasks:
