@@ -2,7 +2,7 @@
 
 ## Overview
 "How do transaction data and neighborhood attributes correlate with homelessness trends over time?"
-By conducting thorough analyses of transaction data and neighborhood attributes, you can gain valuable insights into the housing market dynamics and their potential impact on homelessness. These insights can help inform strategies for addressing homelessness and improving housing stability in affected communities.
+-By conducting thorough analyses of transaction data and neighborhood attributes, you can gain valuable insights into the housing market dynamics and their potential impact on homelessness. These insights can help inform strategies for addressing homelessness and improving housing stability in affected communities.
 
 ## Data Sources
 - [ATTOM API](https://api.developer.attomdata.com/)
@@ -16,13 +16,13 @@ By conducting thorough analyses of transaction data and neighborhood attributes,
 #### Tasks:
 - **Data Collection:** Utilize the ATTOM API to gather transaction and neighborhood attribute data.
 - **Transaction Data Analysis:** Analyze trends in property ownership and sales activity over time.
-- Access deed and mortgage transaction data from the ATTOM API, including information on property sales, sale prices, mortgage amounts, and foreclosure activity.
-- Analyze trends in property ownership and sales activity over time (2007-2023) across different states and metropolitan areas.
-- Identify areas with high foreclosure rates or significant changes in property sales and prices.
+  - Access deed and mortgage transaction data from the ATTOM API, including information on property sales, sale prices, mortgage amounts, and foreclosure activity.
+  - Analyze trends in property ownership and sales activity over time (2007-2023) across different states and metropolitan areas.
+  - Identify areas with high foreclosure rates or significant changes in property sales and prices.
 - **Neighborhood Attributes Analysis:** Evaluate the livability and desirability of different neighborhoods.
--Access neighborhood attribute data from the ATTOM API, including crime rates, school quality, proximity to amenities, and transportation access.
--Evaluate the livability and desirability of different neighborhoods based on these attributes.
--Analyze how neighborhood characteristics correlate with homelessness rates across different regions and demographic groups.
+  -Access neighborhood attribute data from the ATTOM API, including crime rates, school quality, proximity to amenities, and transportation access.
+  -Evaluate the livability and desirability of different neighborhoods based on these attributes.
+  -Analyze how neighborhood characteristics correlate with homelessness rates across different regions and demographic groups.
 - **Visualizations:** Create bar charts, line plots, and maps to visualize the data.
 
 ### Team Member 2 - Syed
