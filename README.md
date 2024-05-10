@@ -7,7 +7,7 @@
 
 ## Data Sources
 - [ATTOM API](https://api.developer.attomdata.com/)
-- [HUD Homelessness Data](https://www.huduser.gov/portal/sites/default/files/xls/2007-2023-HIC-Counts-by-State.xlsx)
+- [PIP Homelessness Data](https://www.huduser.gov/portal/sites/default/files/xls/2007-2023-PIT-Counts-by-State.xlsb)
 - **Transaction Data:** Deed and mortgage transaction data, including information on property sales, sale prices, mortgage amounts, and foreclosure activity.
 - **Neighborhood Attributes:** Neighborhood data such as crime rates, school quality, proximity to amenities, and transportation access.
 
