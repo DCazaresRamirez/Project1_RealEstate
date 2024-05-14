@@ -1,12 +1,12 @@
-### "Housing Dynamics and Homelessness: A Comprehensive Analysis"
+### "Housing Prices and Homelessness: A Comprehensive Analysis"
 
 ## Overview
-"How do transaction data and neighborhood attributes correlate with homelessness trends over time?"
+"How do housing prices and rental prices correlate with homelessness trends over time?"
 
-  - By conducting thorough analyses of transaction data and neighborhood attributes, you can gain valuable insights into the housing market dynamics and their potential impact on homelessness. These insights can help inform strategies for addressing homelessness and improving housing stability in affected communities.
+  - By conducting thorough analyses of ousing prices and rental prices, you can gain valuable insights into the housing market dynamics and their potential impact on homelessness. These insights can help inform strategies for addressing homelessness and improving housing stability in affected communities.
 
 ## Data Sources
-- [ATTOM API](https://api.developer.attomdata.com/)
+- [Zillow](https://www.zillow.com/research/data/)
 - [PIP Homelessness Data](https://www.huduser.gov/portal/sites/default/files/xls/2007-2023-PIT-Counts-by-State.xlsb)
 - **Transaction Data:** Deed and mortgage transaction data, including information on property sales, sale prices, mortgage amounts, and foreclosure activity.
 - **Neighborhood Attributes:** Neighborhood data such as crime rates, school quality, proximity to amenities, and transportation access.
@@ -15,20 +15,20 @@
 
 ### Team Member 1 - Victoria
 #### Tasks:
-- **Data Collection:** Utilize the ATTOM API to gather transaction and neighborhood attribute data.
-- **Transaction Data Analysis:** Analyze trends in property ownership and sales activity over time.
-  - Access deed and mortgage transaction data from the ATTOM API, including information on property sales, sale prices, mortgage amounts, and foreclosure activity.
-  - Analyze trends in property ownership and sales activity over time (2007-2023) across different states and metropolitan areas.
-  - Identify areas with high foreclosure rates or significant changes in property sales and prices.
-- **Neighborhood Attributes Analysis:** Evaluate the livability and desirability of different neighborhoods.
-  - Access neighborhood attribute data from the ATTOM API, including crime rates, school quality, proximity to amenities, and transportation access.
-  - Evaluate the livability and desirability of different neighborhoods based on these attributes.
-  - Analyze how neighborhood characteristics correlate with homelessness rates across different regions and demographic groups.
-- **Visualizations:** Create bar charts, line plots, and maps to visualize the data.
-  - Create bar charts to visualize property ownership trends over time.
-  - Generate line plots to illustrate changes in property sales activity.
-  - Develop heatmaps to visualize foreclosure rates or changes in property prices.
-  - Create maps to represent neighborhood attributes and their correlations with homelessness rates.
+ - **Data Collection:** Gathered Zillow data on bottom tier home sales, top tier home sales, and rental prices from 2015 to 2023.
+- **Analysis of Home Sales:** Analyzed trends in bottom tier and top tier home sales over time.
+  - Examined changes in median home prices for bottom tier and top tier homes from 2015 to 2023.
+  - Identified states with significant fluctuations in home prices and sales activity.
+- **Analysis of Rental Prices:** Investigated trends in rental prices over the same period.
+  - Explored changes in median rental prices from 2015 to 2023.
+  - Identified states where rental prices experienced notable increases or decreases.
+- **Correlation Analysis:** Conducted a correlation analysis between home prices and rental prices.
+  - Calculated the correlation coefficient between home prices and rental prices to assess their relationship.
+  - Explored how changes in home prices might correlate with changes in rental prices.
+- **Visualizations:** Created visualizations to illustrate trends in home sales and rental prices.
+  - Developed line plots to visualize trends in home sales and rental prices over time.
+  - Created scatter plot to depict the correlation between home prices and rental prices.
+
 
 ### Team Member 2 - Syed
 #### Tasks:
