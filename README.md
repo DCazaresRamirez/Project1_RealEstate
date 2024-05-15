@@ -5,6 +5,19 @@
 
   - By conducting thorough analyses of ousing prices and rental prices, you can gain valuable insights into the housing market dynamics and their potential impact on homelessness. These insights can help inform strategies for addressing homelessness and improving housing stability in affected communities.
 
+  - [Slide Deck](https://docs.google.com/presentation/d/1rWzFMZlgYeZn-mr1Kjt6djbUY5lJ5azxxvPJuQRfdh4/edit?usp=sharing)
+
+  - ## Images
+
+Static images generated for the home/rent vs Homelessness
+  - [Home Prices 10 Years](Home_Prices_Screenshots/All_Home_Prices_10_Years.png)  
+  - [Home Prices Bottom 5](Home_Prices_Screenshots/Home_Prices_Bottom_5.png)
+  - [Home Prices Top 5](Home_Prices_Screenshots/Home_Prices_Top_5.png)
+  - [Rental Prices](Home_Prices_Screenshots/Rental_Prices_8_Years.png)
+  - [Linear Regression, Home Prices vs Rental Prices](Home_Prices_Screenshots/Home_vs_Rental_Linear_Regression.png)
+  - [Linear Regression, Home Prices vs Homelessness](Home_Prices_Screenshots/Home_Prices_vs_Homeless.png)
+  - [Linear Regression, Rental Prices vs Homelessness](Home_Prices_Screenshots/Rent_vs_Homeless.png)
+
 ## Data Sources
 - [Zillow](https://www.zillow.com/research/data/)
 - [PIP Homelessness Data](https://www.huduser.gov/portal/sites/default/files/xls/2007-2023-PIT-Counts-by-State.xlsb)
@@ -42,18 +55,6 @@
   - Generate bar charts to compare homelessness counts between states or to show changes over time.
   - Use appropriate labels, titles, and colors to enhance the clarity and effectiveness of the visualizations.
 
-### Team Member 3 - Derick
-#### Tasks:
-- **Data Collection:**
-  - Retrieve demographic data of homeless individuals for each state from 2007 to 2023.
-  - Ensure the data includes information such as age, gender, race/ethnicity, and any other relevant demographic variables.
-- **Analysis:**
-  - Analyze the demographic profiles of the homeless population to identify trends and variations over time and across states.
-  - Explore changes in the composition of the homeless population in terms of age groups, gender distribution, racial/ethnic diversity, etc.
-- **Visualizations:**
-  - Create bar charts or pie charts to visually represent the demographic distributions of homeless individuals.
-  - Utilize appropriate visualization techniques to effectively communicate insights regarding demographic variations.
-
 ### Team Member 4 - Elisabeth
 #### Tasks:
 - **Data Collection:**
@@ -67,36 +68,22 @@
   - Use appropriate visualization techniques to effectively convey insights into the distribution patterns of homelessness.
 
 ## Data Integration
-1. **Combine Transaction Data and Neighborhood Attributes:**
-   - Merge transaction data (e.g., property sales, sale prices, mortgage amounts, foreclosure activity) with neighborhood attributes data (e.g., crime rates, school quality, proximity to amenities, transportation access) by state and year.
-   - Ensure consistency in data formatting and alignment to facilitate integration.
-2. **Integrate Homelessness Data:**
+
+1. **Integrate Homelessness Data:**
    - Align homelessness count data with demographic characteristics and housing type/sheltered status data by state and year.
    - Verify data accuracy and completeness before integration.
-3. **Align Datasets:**
+2. **Align Datasets:**
    - Ensure proper alignment of all datasets by state and year.
    - Standardize state and year identifiers across datasets to ensure consistency and accuracy.
    - Verify data integrity and resolve any discrepancies or inconsistencies.
-4. **Perform Data Validation:**
+3. **Perform Data Validation:**
    - Validate integrated datasets to ensure accuracy and completeness.
    - Address any data quality issues or anomalies identified during the validation process.
-5. **Document Data Integration:**
+4. **Document Data Integration:**
    - Document the steps taken to integrate the datasets, including any data transformations or preprocessing steps applied.
    - Maintain clear documentation to facilitate reproducibility and transparency in the analysis.
 
-## Visualizations
-1. **Create Scatter Plots:**
-   - Visualize the relationship between property sales activity and homelessness counts.
-   - Plot neighborhood attributes against homelessness trends to identify patterns.
-2. **Generate Heatmaps:**
-   - Use color gradients to represent the strength and direction of correlations between variables.
-   - Create heatmaps to highlight areas with strong correlations between demographic profiles, housing market dynamics, and homelessness trends.
-3. **Develop Choropleth Maps:**
-   - Map homelessness rates, demographic characteristics, and housing market indicators across different geographic regions.
-   - Use choropleth maps to visualize regional variations and identify areas with higher homelessness rates or specific demographic profiles.
-   - Load geospatial data using geopandas.
-   - Ensure alignment between geospatial data and attribute data.
-   - Plot choropleth maps using matplotlib and geopandas.
+
 
 ## Interpretation and Insights
 1. **Interpret Correlation Findings:**
