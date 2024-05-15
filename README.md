@@ -10,11 +10,11 @@
   - ## Images
 
 Static images generated for the home/rent vs Homelessness
-[Home Prices 10 Years](Home_Prices_Screenshots/All_Home_Prices_10_Years.png)  
-[Home Prices Bottom 5](Home_Prices_Screenshots/Home_Prices_Bottom_5.png)
-[Home Prices Top 5](Home_Prices_Screenshots/Home_Prices_Top_5.png)
-[Rental Prices](Home_Prices_Screenshots/Rental_Prices_8_Years.png)
-[Linear Regression](Home_Prices_Screenshots/Hom e_vs_Rental_Linear_Regression.png)
+  - [Home Prices 10 Years](Home_Prices_Screenshots/All_Home_Prices_10_Years.png)  
+  - [Home Prices Bottom 5](Home_Prices_Screenshots/Home_Prices_Bottom_5.png)
+  - [Home Prices Top 5](Home_Prices_Screenshots/Home_Prices_Top_5.png)
+  - [Rental Prices](Home_Prices_Screenshots/Rental_Prices_8_Years.png)
+  - [Linear Regression](Home_Prices_Screenshots/Home_vs_Rental_Linear_Regression.png)
 
 ## Data Sources
 - [Zillow](https://www.zillow.com/research/data/)
@@ -52,18 +52,6 @@ Static images generated for the home/rent vs Homelessness
   - Create line plots to visualize the trend of homelessness counts over the years for each state.
   - Generate bar charts to compare homelessness counts between states or to show changes over time.
   - Use appropriate labels, titles, and colors to enhance the clarity and effectiveness of the visualizations.
-
-### Team Member 3 - Derick
-#### Tasks:
-- **Data Collection:**
-  - Retrieve demographic data of homeless individuals for each state from 2007 to 2023.
-  - Ensure the data includes information such as age, gender, race/ethnicity, and any other relevant demographic variables.
-- **Analysis:**
-  - Analyze the demographic profiles of the homeless population to identify trends and variations over time and across states.
-  - Explore changes in the composition of the homeless population in terms of age groups, gender distribution, racial/ethnic diversity, etc.
-- **Visualizations:**
-  - Create bar charts or pie charts to visually represent the demographic distributions of homeless individuals.
-  - Utilize appropriate visualization techniques to effectively communicate insights regarding demographic variations.
 
 ### Team Member 4 - Elisabeth
 #### Tasks:
