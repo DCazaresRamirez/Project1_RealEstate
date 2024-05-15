@@ -5,6 +5,8 @@
 
   - By conducting thorough analyses of ousing prices and rental prices, you can gain valuable insights into the housing market dynamics and their potential impact on homelessness. These insights can help inform strategies for addressing homelessness and improving housing stability in affected communities.
 
+  - [Slide Deck](https://docs.google.com/presentation/d/1rWzFMZlgYeZn-mr1Kjt6djbUY5lJ5azxxvPJuQRfdh4/edit?usp=sharing)
+
 ## Data Sources
 - [Zillow](https://www.zillow.com/research/data/)
 - [PIP Homelessness Data](https://www.huduser.gov/portal/sites/default/files/xls/2007-2023-PIT-Counts-by-State.xlsb)
