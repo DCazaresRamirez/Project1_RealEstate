@@ -14,7 +14,9 @@ Static images generated for the home/rent vs Homelessness
   - [Home Prices Bottom 5](Home_Prices_Screenshots/Home_Prices_Bottom_5.png)
   - [Home Prices Top 5](Home_Prices_Screenshots/Home_Prices_Top_5.png)
   - [Rental Prices](Home_Prices_Screenshots/Rental_Prices_8_Years.png)
-  - [Linear Regression](Home_Prices_Screenshots/Home_vs_Rental_Linear_Regression.png)
+  - [Linear Regression, Home Prices vs Rental Prices](Home_Prices_Screenshots/Home_vs_Rental_Linear_Regression.png)
+  - [Linear Regression, Home Prices vs Homelessness](Home_Prices_Screenshots/Home_Prices_vs_Homeless.png)
+  - [Linear Regression, Rental Prices vs Homelessness](Home_Prices_Screenshots/Rent_vs_Homeless.png)
 
 ## Data Sources
 - [Zillow](https://www.zillow.com/research/data/)
