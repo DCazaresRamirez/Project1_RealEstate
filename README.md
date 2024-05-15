@@ -3,7 +3,7 @@
 ## Overview
 "How do housing prices and rental prices correlate with homelessness trends over time?"
 
-  - By conducting thorough analyses of ousing prices and rental prices, you can gain valuable insights into the housing market dynamics and their potential impact on homelessness. These insights can help inform strategies for addressing homelessness and improving housing stability in affected communities.
+  - By conducting thorough analyses of housing prices and rental prices, you can gain valuable insights into the housing market dynamics and their potential impact on homelessness. These insights can help inform strategies for addressing homelessness and improving housing stability in affected communities.
 
   - [Slide Deck](https://docs.google.com/presentation/d/1rWzFMZlgYeZn-mr1Kjt6djbUY5lJ5azxxvPJuQRfdh4/edit?usp=sharing)
 
