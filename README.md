@@ -53,18 +53,6 @@ Static images generated for the home/rent vs Homelessness
   - Generate bar charts to compare homelessness counts between states or to show changes over time.
   - Use appropriate labels, titles, and colors to enhance the clarity and effectiveness of the visualizations.
 
-### Team Member 3 - Derick
-#### Tasks:
-- **Data Collection:**
-  - Retrieve demographic data of homeless individuals for each state from 2007 to 2023.
-  - Ensure the data includes information such as age, gender, race/ethnicity, and any other relevant demographic variables.
-- **Analysis:**
-  - Analyze the demographic profiles of the homeless population to identify trends and variations over time and across states.
-  - Explore changes in the composition of the homeless population in terms of age groups, gender distribution, racial/ethnic diversity, etc.
-- **Visualizations:**
-  - Create bar charts or pie charts to visually represent the demographic distributions of homeless individuals.
-  - Utilize appropriate visualization techniques to effectively communicate insights regarding demographic variations.
-
 ### Team Member 4 - Elisabeth
 #### Tasks:
 - **Data Collection:**
