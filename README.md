@@ -45,7 +45,7 @@ Static images generated for the home/rent vs Homelessness
 ### Team Member 2 - Syed
 #### Tasks:
 - **Data Collection:**
-  - Access homelessness count data for each state from 2007 to 2023.
+  - Access homelessness count data for each state from 2013 to 2023.
   - Compile and organize the data to ensure consistency and completeness.
 - **Analysis:**
   - Conduct statistical analysis to identify trends, fluctuations, and patterns in homelessness counts over time.
@@ -58,7 +58,7 @@ Static images generated for the home/rent vs Homelessness
 ### Team Member 4 - Elisabeth
 #### Tasks:
 - **Data Collection:**
-  - Collect data on the distribution of homelessness counts by housing type and sheltered status for each state from 2007 to 2023.
+  - Collect data on the distribution of homelessness counts by housing type and sheltered status for each state from 2013 to 2023.
   - Ensure the data includes information on the number of sheltered and unsheltered homeless individuals, categorized by housing type.
 - **Analysis:**
   - Analyze variations in the proportion of sheltered and unsheltered homeless individuals across states and over time.
