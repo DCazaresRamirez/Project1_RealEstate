@@ -66,36 +66,22 @@ Static images generated for the home/rent vs Homelessness
   - Use appropriate visualization techniques to effectively convey insights into the distribution patterns of homelessness.
 
 ## Data Integration
-1. **Combine Transaction Data and Neighborhood Attributes:**
-   - Merge transaction data (e.g., property sales, sale prices, mortgage amounts, foreclosure activity) with neighborhood attributes data (e.g., crime rates, school quality, proximity to amenities, transportation access) by state and year.
-   - Ensure consistency in data formatting and alignment to facilitate integration.
-2. **Integrate Homelessness Data:**
+
+1. **Integrate Homelessness Data:**
    - Align homelessness count data with demographic characteristics and housing type/sheltered status data by state and year.
    - Verify data accuracy and completeness before integration.
-3. **Align Datasets:**
+2. **Align Datasets:**
    - Ensure proper alignment of all datasets by state and year.
    - Standardize state and year identifiers across datasets to ensure consistency and accuracy.
    - Verify data integrity and resolve any discrepancies or inconsistencies.
-4. **Perform Data Validation:**
+3. **Perform Data Validation:**
    - Validate integrated datasets to ensure accuracy and completeness.
    - Address any data quality issues or anomalies identified during the validation process.
-5. **Document Data Integration:**
+4. **Document Data Integration:**
    - Document the steps taken to integrate the datasets, including any data transformations or preprocessing steps applied.
    - Maintain clear documentation to facilitate reproducibility and transparency in the analysis.
 
-## Visualizations
-1. **Create Scatter Plots:**
-   - Visualize the relationship between property sales activity and homelessness counts.
-   - Plot neighborhood attributes against homelessness trends to identify patterns.
-2. **Generate Heatmaps:**
-   - Use color gradients to represent the strength and direction of correlations between variables.
-   - Create heatmaps to highlight areas with strong correlations between demographic profiles, housing market dynamics, and homelessness trends.
-3. **Develop Choropleth Maps:**
-   - Map homelessness rates, demographic characteristics, and housing market indicators across different geographic regions.
-   - Use choropleth maps to visualize regional variations and identify areas with higher homelessness rates or specific demographic profiles.
-   - Load geospatial data using geopandas.
-   - Ensure alignment between geospatial data and attribute data.
-   - Plot choropleth maps using matplotlib and geopandas.
+
 
 ## Interpretation and Insights
 1. **Interpret Correlation Findings:**
