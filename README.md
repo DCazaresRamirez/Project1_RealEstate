@@ -7,6 +7,15 @@
 
   - [Slide Deck](https://docs.google.com/presentation/d/1rWzFMZlgYeZn-mr1Kjt6djbUY5lJ5azxxvPJuQRfdh4/edit?usp=sharing)
 
+  - ## Images
+
+Static images generated for the home/rent vs Homelessness
+[Home Prices 10 Years](Home_Prices_Screenshots/All_Home_Prices_10_Years.png)  
+[Home Prices Bottom 5](Home_Prices_Screenshots/Home_Prices_Bottom_5.png)
+[Home Prices Top 5](Home_Prices_Screenshots/Home_Prices_Top_5.png)
+[Rental Prices](Home_Prices_Screenshots/Rental_Prices_8_Years.png)
+[Linear Regression](Home_Prices_Screenshots/Hom e_vs_Rental_Linear_Regression.png)
+
 ## Data Sources
 - [Zillow](https://www.zillow.com/research/data/)
 - [PIP Homelessness Data](https://www.huduser.gov/portal/sites/default/files/xls/2007-2023-PIT-Counts-by-State.xlsb)
