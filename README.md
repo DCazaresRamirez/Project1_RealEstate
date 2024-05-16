@@ -3,7 +3,7 @@
 ## Overview
 "How do housing prices and rental prices correlate with homelessness trends over time?"
 
-  - By conducting thorough analyses of ousing prices and rental prices, you can gain valuable insights into the housing market dynamics and their potential impact on homelessness. These insights can help inform strategies for addressing homelessness and improving housing stability in affected communities.
+  - By conducting thorough analyses of housing prices and rental prices, you can gain valuable insights into the housing market dynamics and their potential impact on homelessness. These insights can help inform strategies for addressing homelessness and improving housing stability in affected communities.
 
   - [Slide Deck](https://docs.google.com/presentation/d/1rWzFMZlgYeZn-mr1Kjt6djbUY5lJ5azxxvPJuQRfdh4/edit?usp=sharing)
 
@@ -45,7 +45,7 @@ Static images generated for the home/rent vs Homelessness
 ### Team Member 2 - Syed
 #### Tasks:
 - **Data Collection:**
-  - Access homelessness count data for each state from 2007 to 2023.
+  - Access homelessness count data for each state from 2013 to 2023.
   - Compile and organize the data to ensure consistency and completeness.
 - **Analysis:**
   - Conduct statistical analysis to identify trends, fluctuations, and patterns in homelessness counts over time.
@@ -58,7 +58,7 @@ Static images generated for the home/rent vs Homelessness
 ### Team Member 4 - Elisabeth
 #### Tasks:
 - **Data Collection:**
-  - Collect data on the distribution of homelessness counts by housing type and sheltered status for each state from 2007 to 2023.
+  - Collect data on the distribution of homelessness counts by housing type and sheltered status for each state from 2013 to 2023.
   - Ensure the data includes information on the number of sheltered and unsheltered homeless individuals, categorized by housing type.
 - **Analysis:**
   - Analyze variations in the proportion of sheltered and unsheltered homeless individuals across states and over time.
