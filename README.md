@@ -37,10 +37,12 @@ Static images generated for the home/rent vs Homelessness
 - **Correlation Analysis:** Conducted a correlation analysis between home prices and rental prices, and homelessness data.
   - Calculated the correlation coefficient between home prices and rental prices to assess their relationship.
   - Explored how changes in home prices might correlate with changes in rental prices.
-- **Visualizations:** Created visualizations to illustrate trends in home sales and rental prices.
+  - Explored how changes in home and rental prices might correlate with homelss population trends over time.
+- **Visualizations:** Created visualizations to illustrate trends in housing costs and homelessness
   - Developed line plots to visualize trends in home sales and rental prices over time.
-  - Created scatter plot to depict the correlation between home prices and rental prices.
-  - Created the Google Slide presentation, assigned the tasks, and input all into the README file.
+  - Created scatter plot to depict the correlation between home prices and rental prices, and showed the linear regression.
+  - Created a scatter plot of Syed's data set in the output_data folder of homeless counts by state, and showed the linear regression.
+  - Created my portion of the Google Slide presentation, assigned the tasks, and input all information into the README file, as well as putting together the final conclusion.
 
 
 ### Team Member 2 - Syed
@@ -81,6 +83,8 @@ Static images generated for the home/rent vs Homelessness
   - Use appropriate visualization techniques to effectively convey insights into the distribution patterns of homelessness.
 
 ## Data Integration
+
+- Note that due to time constraints, we were unable to integrate how the demographics of the homeless populations affects their sheltered status.
 
 1. **Integrate Homelessness Data:**
    - Align homelessness count data with demographic characteristics and housing type/sheltered status data by state and year.
