@@ -42,7 +42,7 @@ Static images generated for the home/rent vs Homelessness
 - **Correlation Analysis:** Conducted a correlation analysis between home prices and rental prices, and homelessness data.
   - Calculated the correlation coefficient between home prices and rental prices to assess their relationship.
   - Explored how changes in home prices might correlate with changes in rental prices.
-  - Explored how changes in home and rental prices might correlate with homelss population trends over time.
+  - Explored how changes in home and rental prices might correlate with homeless population trends over time.
 - **Visualizations:** Created visualizations to illustrate trends in housing costs and homelessness
   - Developed line plots to visualize trends in home sales and rental prices over time.
   - Created scatter plot to depict the correlation between home prices and rental prices, and showed the linear regression.
