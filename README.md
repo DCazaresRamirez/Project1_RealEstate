@@ -26,7 +26,7 @@ Static images generated for the home/rent vs Homelessness
 ## Team Members and Tasks:
 
 ## Teammembers 1+2
-    - How does the rise in housing costs affect the homeless population overtime?
+- How does the rise in housing costs affect the homeless population overtime?
     
 ### Team Member 1 - Victoria
 - [Housing Costs and Homelessness Analysis](homes_sales_vs_rental_prices.ipynb)
@@ -67,7 +67,7 @@ Static images generated for the home/rent vs Homelessness
   - Use appropriate labels, titles, and colors to enhance the clarity and effectiveness of the visualizations.
  
 ## Teammembers 2+3
-    - How does the demographics of the homeless populations affect their sheltered status?
+- How does the demographics of the homeless populations affect their sheltered status?
 
  ### Team Member 3 - Derick
 #### Tasks:
