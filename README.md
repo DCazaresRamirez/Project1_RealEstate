@@ -67,7 +67,7 @@ Static images generated for the home/rent vs Homelessness
   - Use appropriate labels, titles, and colors to enhance the clarity and effectiveness of the visualizations.
  
 ## Teammembers 2+3
-- How does the demographics of the homeless populations affect their sheltered status?
+- How does the demographics of the homeless population affect their sheltered status?
 
  ### Team Member 3 - Derick
 #### Tasks:
