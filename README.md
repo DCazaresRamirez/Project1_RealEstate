@@ -26,7 +26,7 @@ Static images generated for the home/rent vs Homelessness
 ## Team Members and Tasks
 
 ### Team Member 1 - Victoria
-- [Housing Costs and Homelessness Notebook](homes_sales_vs_rental_prices.ipynb)
+- [Housing Costs and Homelessness Analysis](homes_sales_vs_rental_prices.ipynb)
 - [Bottom Tier Home Sales Notebook](https://github.com/DCazaresRamirez/Project1_RealEstate/blob/main/Home%20prices%20data/bottom_tier_home_sales.ipynb#:~:text=/-,Home%20prices%20data,bottom_tier_home_sales.ipynb,-Latest%20commit)
 - [Top Tier Home Sales Notebook](https://github.com/DCazaresRamirez/Project1_RealEstate/blob/main/Home%20prices%20data/top_tier_home_sales.ipynb#:~:text=/-,Home%20prices%20data,top_tier_home_sales.ipynb,-Latest%20commit)
 - [Rental Prices Notebook](https://github.com/DCazaresRamirez/Project1_RealEstate/blob/main/Home%20prices%20data/Rental_data.ipynb#:~:text=/-,Home%20prices%20data,Rental_data.ipynb,-Latest%20commit)
