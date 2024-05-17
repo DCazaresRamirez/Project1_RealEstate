@@ -27,7 +27,7 @@ Static images generated for the home/rent vs Homelessness
 
 ### Team Member 1 - Victoria
 - [Housing Costs and Homelessness Notebook](homes_sales_vs_rental_prices.ipynb)
-- [Bottom Tier Home Sales Notebook](Home_prices_data/bottom_tier_home_sales.ipynb)
+- [Bottom Tier Home Sales Notebook](https://github.com/DCazaresRamirez/Project1_RealEstate/blob/main/Home%20prices%20data/bottom_tier_home_sales.ipynb#:~:text=/-,Home%20prices%20data,bottom_tier_home_sales.ipynb,-Latest%20commit))
 #### Tasks:
  - **Data Collection:** Gathered Zillow data on bottom tier home sales, top tier home sales, and rental prices from 2015 to 2023.
 - **Analysis of Home Sales:** Analyzed trends in bottom tier and top tier home sales over time.
