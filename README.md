@@ -23,8 +23,11 @@ Static images generated for the home/rent vs Homelessness
 - [PIP Homelessness Data](https://www.huduser.gov/portal/sites/default/files/xls/2007-2023-PIT-Counts-by-State.xlsb)
 
 
-## Team Members and Tasks
+## Team Members and Tasks:
 
+## Teammembers 1+2
+    - How does the rise in housing costs affect the homeless population overtime?
+    
 ### Team Member 1 - Victoria
 - [Housing Costs and Homelessness Analysis](homes_sales_vs_rental_prices.ipynb)
 - [Bottom Tier Home Sales Notebook](https://github.com/DCazaresRamirez/Project1_RealEstate/blob/main/Home%20prices%20data/bottom_tier_home_sales.ipynb#:~:text=/-,Home%20prices%20data,bottom_tier_home_sales.ipynb,-Latest%20commit)
@@ -62,6 +65,9 @@ Static images generated for the home/rent vs Homelessness
   - Create line plots to visualize the trend of homelessness counts over the years for each state.
   - Generate bar charts to compare homelessness counts between states or to show changes over time.
   - Use appropriate labels, titles, and colors to enhance the clarity and effectiveness of the visualizations.
+ 
+## Teammembers 2+3
+    - How does the demographics of the homeless populations affect their sheltered status?
 
  ### Team Member 3 - Derick
 #### Tasks:
